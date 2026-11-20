@@ -1,4 +1,4 @@
-# Chrome Hearts restock bot
+# Restock bot
 
 Runs on GitHub Actions about every 5 minutes, so it works even when your computer is off. It sends a phone
 alert through **ntfy** when:
@@ -31,7 +31,6 @@ before. To check only some categories, set `"categories": ["scents", "socks"]`. 
 
 - **ntfy** (phone): install the free ntfy app and subscribe to your topic. The topic name is stored as the
   `NTFY_TOPIC` repository secret (Settings → Secrets and variables → Actions), so it isn't visible in this public repo.
-- **Discord** (optional): add a `DISCORD_WEBHOOK` secret and pass it in `.github/workflows/restock.yml`.
 
 **Test alert:** Actions tab → Restock check → Run workflow → tick "Send a test alert" → Run.
 
