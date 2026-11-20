@@ -1,0 +1,19 @@
+{
+  "watch_new_products": true,
+  "categories": [],
+  "items": [
+    {
+      "url": "https://www.chromehearts.com/scents/33-eau-de-parfum/162006CRYXXX272.html"
+    },
+    {
+      "url": "https://www.chromehearts.com/socks/sport/176354XXXXXXXXX.html",
+      "options": {
+        "color": "Black",
+        "size": "M"
+      }
+    },
+    {
+      "url": "https://www.chromehearts.com/socks/sport/176354XXXXXXXXX.html"
+    }
+  ]
+}

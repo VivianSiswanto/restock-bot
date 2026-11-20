@@ -1,0 +1,9 @@
+# private: ntfy topic and phone numbers
+settings.local.json
+
+# Mac-only files
+restock_bot.log
+launchd.*.log
+permtest.log
+__pycache__/
+.DS_Store
