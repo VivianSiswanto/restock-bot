@@ -1,4 +1,4 @@
-# Restock bot
+# Restock Bot
 
 Runs on GitHub Actions about every 5 minutes, so it works even when your computer is off. It sends a phone
 alert through **ntfy** when:
